@@ -1,10 +1,12 @@
-package Practise;
+
+import org.testng.annotations.Test;
 
 public class Test3 {
+	@Test
+	public void startToRun()
+	{
+		System.out.println("Started to run Test3 Script");
+	} 
 
-	public static void main(String[] args) {
-		System.out.println("---Test 3 Created---");
-
-	}
 
 }
