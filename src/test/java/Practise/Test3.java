@@ -1,4 +1,3 @@
-package Practise;
 
 import org.testng.annotations.Test;
 
@@ -8,5 +7,6 @@ public class Test3 {
 	{
 		System.out.println("Started to run Test3 Script");
 	} 
+
 
 }
